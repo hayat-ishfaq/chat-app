@@ -1,8 +1,4 @@
-Perfect bro 😎 I’ll reword it into a **README.md style** (clean, concise, and dev-friendly). Here’s how it’ll look:
 
----
-
-```markdown
 # 💬 NexTalk – Modern Flutter Chat App
 
 NexTalk is a **real-time chat application** built with **Flutter** and **Firebase**.  
